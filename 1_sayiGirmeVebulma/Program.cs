@@ -17,7 +17,7 @@ namespace _1_sayiGirmeVebulma
             int sayiAdedi,negSayi=0,pozSayi=0;
             int[] sayi;
 
-            //girdi
+            //girdi 
             Console.Write("Sayı adedi girin: ");
             sayiAdedi = int.Parse(Console.ReadLine());
             Console.WriteLine();
