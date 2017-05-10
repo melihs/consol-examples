@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konsolda_form_uygulamasi", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_uygulamalari_hakkinda", "Console_uygulamalari_hakkinda\Console_uygulamalari_hakkinda.csproj", "{5CAD97C3-FED5-45B0-9B56-27157C7580F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_sayiGirmeVebulma", "1_sayiGirmeVebulma\1_sayiGirmeVebulma.csproj", "{10A4D7CD-126B-41AE-A461-DD83C83EEE2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5CAD97C3-FED5-45B0-9B56-27157C7580F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAD97C3-FED5-45B0-9B56-27157C7580F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAD97C3-FED5-45B0-9B56-27157C7580F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A4D7CD-126B-41AE-A461-DD83C83EEE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A4D7CD-126B-41AE-A461-DD83C83EEE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A4D7CD-126B-41AE-A461-DD83C83EEE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A4D7CD-126B-41AE-A461-DD83C83EEE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
