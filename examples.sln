@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_sayiGirmeVebulma", "1_say
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_stringBuilderSinifiOrnek", "2_stringBuilderSinifiOrnek\2_stringBuilderSinifiOrnek.csproj", "{1E86CD2B-F06A-4F90-ACB1-73EE3FE408B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3AsalSayilar", "3AsalSayilar\3AsalSayilar.csproj", "{27F268DC-6CA7-436A-9428-FE40C8092DBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1E86CD2B-F06A-4F90-ACB1-73EE3FE408B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E86CD2B-F06A-4F90-ACB1-73EE3FE408B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E86CD2B-F06A-4F90-ACB1-73EE3FE408B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F268DC-6CA7-436A-9428-FE40C8092DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F268DC-6CA7-436A-9428-FE40C8092DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F268DC-6CA7-436A-9428-FE40C8092DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F268DC-6CA7-436A-9428-FE40C8092DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
